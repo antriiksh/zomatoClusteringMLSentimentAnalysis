@@ -13,8 +13,6 @@ Data could be used for sentiment analysis. Also the metadata of reviewers can be
 
 ## Attribute Information
 ### Zomato Restaurant names and Metadata
-Use this dataset for clustering part
-
 Name : Name of Restaurants
 
 Links : URL Links of Restaurants
@@ -28,8 +26,6 @@ Cuisines : Cuisines served by Restaurants
 Timings : Restaurant Timings
 
 ### Zomato Restaurant reviews
-Merge this dataset with Names and Matadata and then use for sentiment analysis part
-
 Restaurant : Name of the Restaurant
 
 Reviewer : Name of the Reviewer
